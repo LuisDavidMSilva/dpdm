@@ -1,0 +1,7 @@
+{
+  "type": "sqljs",
+  "entities": [
+    "dist/aluno/aluno.js"
+  ],
+  "synchronize": "true"
+}
